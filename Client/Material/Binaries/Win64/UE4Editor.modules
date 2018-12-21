@@ -1,0 +1,8 @@
+{
+	"BuildId": "4212847",
+	"Modules": 
+	{
+		"Material": "UE4Editor-Material.dll",
+		"Protobuf": "UE4Editor-Protobuf.dll"
+	}
+}
