@@ -1,0 +1,541 @@
+﻿Log file open, 12/24/18 09:38:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Material
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.372119
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.186s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/EpicGames/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.24-01.38.31:213][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.24-01.38.31:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.24-01.38.31:225][  0]LogHAL: Display: Platform has ~ 16 GB [17053208576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.24-01.38.31:225][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.24-01.38.31:225][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.24-01.38.31:226][  0]LogInit: Computer: SH-wengjun
+[2018.12.24-01.38.31:226][  0]LogInit: User: wengjun
+[2018.12.24-01.38.31:226][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.24-01.38.31:226][  0]LogInit: High frequency timer resolution =3.328125 MHz
+[2018.12.24-01.38.31:226][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.24-01.38.31:226][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.24-01.38.31:226][  0]LogMemory: Process Physical Memory: 101.98 MB used, 101.98 MB peak
+[2018.12.24-01.38.31:226][  0]LogMemory: Process Virtual Memory: 91.15 MB used, 91.15 MB peak
+[2018.12.24-01.38.31:226][  0]LogMemory: Physical Memory: 8927.54 MB used,  7335.66 MB free, 16263.21 MB total
+[2018.12.24-01.38.31:226][  0]LogMemory: Virtual Memory: 4645.96 MB used,  7335.66 MB free, 134217728.00 MB total
+[2018.12.24-01.38.31:349][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.12.24-01.38.31:350][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.12.24-01.38.31:700][  0]LogStreaming: Display: Took  0.351s to InitEngineTextLocalization.
+[2018.12.24-01.38.31:701][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.24-01.38.31:757][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.24-01.38.31:757][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.24-01.38.31:959][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.24-01.38.31:961][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.24-01.38.32:080][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.24-01.38.32:080][  0]LogD3D11RHI:       1977/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.24-01.38.32:104][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.12.24-01.38.32:104][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.24-01.38.32:110][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.24-01.38.32:110][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.24-01.38.32:111][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.24-01.38.32:124][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.24-01.38.32:124][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.24-01.38.32:124][  0]LogWindows: EnumDisplayDevices:
+[2018.12.24-01.38.32:125][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.12.24-01.38.32:125][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.12.24-01.38.32:126][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.12.24-01.38.32:126][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.12.24-01.38.32:127][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.24-01.38.32:127][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.24-01.38.32:128][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.12.24-01.38.32:128][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.24-01.38.32:128][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.24-01.38.32:129][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.12.24-01.38.32:129][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.12.24-01.38.32:129][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.12.24-01.38.32:171][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.24-01.38.32:189][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.24-01.38.32:237][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (E:/FreeMakeGame/SmallGame/Client/Material/Intermediate/Shaders/WorkingDirectory/84620/).
+[2018.12.24-01.38.32:239][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/wengjun/AppData/Local/Temp/UnrealShaderWorkingDir/229CE5EB4409132ED523E8B5F79FE6CA/'.
+[2018.12.24-01.38.32:584][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.24-01.38.32:599][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.24-01.38.32:614][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.24-01.38.32:631][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.24-01.38.32:647][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.24-01.38.32:662][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.24-01.38.32:676][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.24-01.38.32:690][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.24-01.38.32:697][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.24-01.38.32:768][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:768][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:770][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.24-01.38.32:780][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.24-01.38.32:853][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.24-01.38.32:853][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.24-01.38.32:881][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.24-01.38.32:881][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.24-01.38.32:896][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.24-01.38.32:910][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.24-01.38.32:924][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.24-01.38.32:940][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.24-01.38.32:953][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.24-01.38.32:953][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.24-01.38.33:072][  0]LogXGEController: Cleaning working directory: C:/Users/wengjun/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.24-01.38.33:073][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.24-01.38.33:073][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.24-01.38.33:073][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.24-01.38.33:702][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.24-01.38.33:752][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/wengjun/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.24-01.38.33:752][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/wengjun/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.24-01.38.33:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/FreeMakeGame/SmallGame/Client/Material/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.24-01.38.33:753][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.24-01.38.33:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/FreeMakeGame/SmallGame/Client/Material/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.24-01.38.33:753][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.24-01.38.33:766][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.24-01.38.33:784][  0]LogDerivedDataCache: Using Local data cache path C:/Users/wengjun/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.24-01.38.33:784][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.24-01.38.33:785][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.24-01.38.33:805][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.24-01.38.33:806][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.24-01.38.33:807][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.24-01.38.33:883][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2018.12.24-01.38.34:163][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.24-01.38.34:315][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.24-01.38.34:325][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.24-01.38.34:325][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.24-01.38.34:325][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.24-01.38.34:325][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.24-01.38.34:343][  0]LogNetVersion: Material 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3674944370)
+[2018.12.24-01.38.34:839][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.063797 seconds
+[2018.12.24-01.38.34:846][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.24-01.38.34:846][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.24-01.38.34:846][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.24-01.38.35:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.24-01.38.35:831][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.24-01.38.36:046][  0]SourceControl: Source control is disabled
+[2018.12.24-01.38.36:046][  0]SourceControl: Source control is disabled
+[2018.12.24-01.38.36:050][  0]SourceControl: Source control is disabled
+[2018.12.24-01.38.36:055][  0]SourceControl: Source control is disabled
+[2018.12.24-01.38.36:349][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.24-01.38.36:469][  0]LogOcInput: OculusInput pre-init called
+[2018.12.24-01.38.36:545][  0]LogEngine: Initializing Engine...
+[2018.12.24-01.38.36:547][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.24-01.38.36:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.24-01.38.36:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.24-01.38.36:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.24-01.38.36:549][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.24-01.38.36:748][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.24-01.38.36:760][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.24-01.38.36:847][  0]LogInit: XAudio2 using '扬声器 (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-01.38.36:870][  0]LogInit: FAudioDevice initialized.
+[2018.12.24-01.38.36:870][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.24-01.38.36:950][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/wengjun/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.24-01.38.36:959][  0]LogInit: Texture streaming: Enabled
+[2018.12.24-01.38.36:986][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.24-01.38.36:997][  0]LogInit: Transaction tracking system initialized
+[2018.12.24-01.38.37:027][  0]BlueprintLog: New page: Editor Load
+[2018.12.24-01.38.37:156][  0]LocalizationService: Localization service is disabled
+[2018.12.24-01.38.37:767][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.24-01.38.37:768][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.24-01.38.37:768][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.24-01.38.37:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.24-01.38.37:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.24-01.38.37:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.24-01.38.37:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.24-01.38.37:955][  0]LogFileCache: Scanning file cache for directory 'E:/FreeMakeGame/SmallGame/Client/Material/Content/' took 0.02s
+[2018.12.24-01.38.37:956][  0]SourceControl: Source control is disabled
+[2018.12.24-01.38.37:956][  0]Cmd: MAP LOAD FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Map/FootInteractionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.24-01.38.37:956][  0]LightingResults: New page: Lighting Build
+[2018.12.24-01.38.37:958][  0]MapCheck: New page: Map Check
+[2018.12.24-01.38.37:959][  0]LightingResults: New page: Lighting Build
+[2018.12.24-01.38.38:819][  0]LogAIModule: Creating AISystem for world FootInteractionMap
+[2018.12.24-01.38.38:855][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.24-01.38.38:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.24-01.38.38:924][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.175ms to complete.
+[2018.12.24-01.38.38:924][  0]LogFileHelpers: Loading map 'FootInteractionMap' took 0.968
+[2018.12.24-01.38.39:064][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.38.39:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.38.39:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.38.39:085][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.38.39:094][  0]LogCollectionManager: Loaded 0 collections in 0.001033 seconds
+[2018.12.24-01.38.39:154][  0]LogFileCache: Scanning file cache for directory 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/Collections/' took 0.01s
+[2018.12.24-01.38.39:155][  0]LogFileCache: Scanning file cache for directory 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Developers/wengjun/Collections/' took 0.01s
+[2018.12.24-01.38.39:155][  0]LogFileCache: Scanning file cache for directory 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Collections/' took 0.02s
+[2018.12.24-01.38.39:155][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.24-01.38.39:165][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2575 classes and 607 folders.
+[2018.12.24-01.38.39:171][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.24-01.38.39:215][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.24-01.38.39:224][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.24-01.38.40:391][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.24-01.38.40:425][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.24-01.38.40:428][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.24-01.38.40:438][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.24-01.38.40:547][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Material
+[2018.12.24-01.38.40:547][  0]LogTemp: CWD: D:\EpicGames\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.24-01.38.40:547][  0]LogTemp: Initial Dir: D:\EpicGames\UE_4.20
+[2018.12.24-01.38.40:548][  0]LogTemp: Env CWD: D:\EpicGames\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.24-01.38.40:548][  0]LogTemp: BranchPath = SH-wengjun/D/EpicGames/UE_4.20/Engine/Binaries --- GameBranchPath = SH-wengjun/D/EpicGames/UE_4.20/Engine/Binaries
+[2018.12.24-01.38.40:548][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\wengjun\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.24-01.38.40:548][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.12.24-01.38.40:572][  0]LogRenderer: Reallocating scene render targets to support 1192x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.24-01.38.40:650][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.24-01.38.40:727][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.24-01.38.40:729][  0]LogLoad: (Engine Initialization) Total time: 11.40 seconds
+[2018.12.24-01.38.40:729][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.24-01.38.40:749][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2018.12.24-01.38.40:781][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.24-01.38.40:819][  1]LogAssetRegistry: Asset discovery search completed in 6.9624 seconds
+[2018.12.24-01.38.40:822][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.24-01.38.40:822][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000190 seconds (updated 0 objects)
+[2018.12.24-01.39.22:610][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.24-01.39.25:623][824]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.24-01.39.35:368][824]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.24-01.40.08:518][ 37]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/CelientSoketMgr.CelientSoketMgr
+[2018.12.24-01.40.09:386][ 37]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.12.24-01.40.10:463][ 37]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.24-01.40.17:320][779]LogSlate: Window 'CelientSoketMgr*' being destroyed
+[2018.12.24-01.40.38:984][367]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.24-01.40.56:720][469]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/SmallGameInstance.SmallGameInstance
+[2018.12.24-01.41.08:430][794]LogSlate: Took 0.018618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.24-01.41.34:154][870]BlueprintLog: New page: Compile CelientSoketMgr
+[2018.12.24-01.41.34:739][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CelientSoketMgr" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/CelientSoketMgr.uasset" SILENT=true
+[2018.12.24-01.41.34:800][924]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/CelientSoketMgr7241A59D45C98CBD0C6E10B0D53E2C2A.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/CelientSoketMgr.uasset'
+[2018.12.24-01.41.48:352][447]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.41.48:952][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.41.48:958][510]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstance7C5FE87A4672D81114BA6F8487ABFC07.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.42.04:898][409]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.42.04:899][409]LogClass: Warning: Type mismatch in SocketMgr of SmallGameInstance_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.12.24-01.42.05:704][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.42.05:719][497]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstance6FB5F37E49AE363C0A6845AF164F4D9B.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.42.21:637][348]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.42.22:104][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.42.22:110][398]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstanceB715ADDA4AD5032F09F68595641C94B7.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.42.38:730][352]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.42.39:309][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.42.39:347][415]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstance1AE9A12B47C871DB5F0FDF9A44EDF516.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.43.38:629][485]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.44.30:956][694]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.44.31:575][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.44.31:589][762]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstanceEB17C5F74654F4F7BD343AB5A67D9F2F.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.44.41:293][919]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.44.41:897][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.44.41:906][984]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstance20D60D8243A99A04EAAF10A93F3F6063.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.44.53:149][304]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.44.53:740][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.44.53:753][368]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstanceB3FE60FF4B57ABE23C3398BF02D82DF3.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.45.06:542][407]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.24-01.45.17:191][663]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/SmallGameMode.SmallGameMode
+[2018.12.24-01.45.17:731][664]LogRenderer: Reallocating scene render targets to support 1212x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.24-01.45.22:779][204]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.45.49:634][397]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.45.55:443][ 91]BlueprintLog: New page: Compile SmallGameMode
+[2018.12.24-01.45.56:092][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameMode" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameMode.uasset" SILENT=true
+[2018.12.24-01.45.56:105][105]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameMode5586AD5F4BB2ADF5A06622BDEE390F0E.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameMode.uasset'
+[2018.12.24-01.46.01:422][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.46.11:101][839]BlueprintLog: New page: Compile SmallGameInstance
+[2018.12.24-01.46.11:669][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.46.11:682][901]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameInstance0C97EE5043E55EA0055B43A24AC68627.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameInstance.uasset'
+[2018.12.24-01.46.17:462][553]LogSlate: Took 0.017786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.24-01.46.25:839][556]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.46.45:474][782]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/GameModeT.GameModeT
+[2018.12.24-01.47.01:461][614]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.12.24-01.47.45:843][510]LogMetaData: Removing '/Game/Blueprint/ClientSmallGameInstance.SKEL_ClientSmallGameInstance_C' ref from Metadata '/Game/Blueprint/SmallGameInstance.PackageMetaData'
+[2018.12.24-01.47.45:844][510]LogMetaData: Removing '/Game/Blueprint/ClientSmallGameInstance.ClientSmallGameInstance_C' ref from Metadata '/Game/Blueprint/SmallGameInstance.PackageMetaData'
+[2018.12.24-01.47.45:883][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ClientSmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.47.45:896][510]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ClientSmallGameInstanceEF3A934F4A23CCE19E817F9D3551FA63.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset'
+[2018.12.24-01.48.37:993][643]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.24-01.48.38:838][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.12.24-01.48.38:920][692]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ThirdPersonCharacter08F5C0D942A4C7EEE4548DBB25312A13.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.24-01.48.39:705][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-01.48.39:772][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-01.48.39:864][781]PIE: New page: PIE session: FootInteractionMap (Dec 24, 2018, 5:48:39 PM)
+[2018.12.24-01.48.39:864][781]LogLinker: Warning: Can't find file '/Game/Blueprint/SmallGameInstance'
+[2018.12.24-01.48.39:864][781]LogLinker: Warning: Can't find file '/Game/Blueprint/SmallGameInstance'
+[2018.12.24-01.48.39:865][781]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprint/SmallGameInstance.SmallGameInstance_C'
+[2018.12.24-01.48.39:865][781]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_FootInteractionMap
+[2018.12.24-01.48.39:919][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053622s)
+[2018.12.24-01.48.39:920][781]LogAIModule: Creating AISystem for world FootInteractionMap
+[2018.12.24-01.48.39:929][781]LogPlayLevel: PIE: World Init took: (0.009614s)
+[2018.12.24-01.48.39:929][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/FootInteractionMap.FootInteractionMap to /Game/Map/UEDPIE_0_FootInteractionMap.FootInteractionMap (0.063891s)
+[2018.12.24-01.48.39:980][781]LogInit: XAudio2 using '扬声器 (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-01.48.39:989][781]LogInit: FAudioDevice initialized.
+[2018.12.24-01.48.40:003][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.48.40:068][781]LogLoad: Game class is 'GameModeT_C'
+[2018.12.24-01.48.40:150][781]LogWorld: Bringing World /Game/Map/UEDPIE_0_FootInteractionMap.FootInteractionMap up for play (max tick rate 0) at 2018.12.24-09.48.40
+[2018.12.24-01.48.40:156][781]LogWorld: Bringing up level for play took: 0.030699
+[2018.12.24-01.48.40:231][781]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.12.24-01.48.40:253][781]PIE: Play in editor start time for /Game/Map/UEDPIE_0_FootInteractionMap -0.24
+[2018.12.24-01.48.40:371][781]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.24-01.48.43:477][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.48.46:778][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.48.54:951][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.49.00:396][654]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 53
+[2018.12.24-01.49.00:396][654]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_T_K2Node_InputKeyEvent_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.12.24-01.49.00:398][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.49.01:943][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.49.22:510][911]LogSlate: Window 'Material Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.24-01.49.22:602][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-01.49.22:756][912]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.24-01.49.45:798][668]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.50.06:961][176]BlueprintLog: New page: Compile ClientSmallGameInstance
+[2018.12.24-01.50.07:704][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ClientSmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.50.07:722][256]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ClientSmallGameInstanceD4CB20924A4D140D86D4B98A9BC6DF0D.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset'
+[2018.12.24-01.50.07:938][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ClientSmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.50.07:951][280]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ClientSmallGameInstanceC3A90EA44308FA46059F2BB70F997CCF.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset'
+[2018.12.24-01.50.21:477][660]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-01.50.21:501][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-01.50.21:501][660]PIE: New page: PIE session: FootInteractionMap (Dec 24, 2018, 5:50:21 PM)
+[2018.12.24-01.50.21:502][660]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_FootInteractionMap
+[2018.12.24-01.50.21:515][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013747s)
+[2018.12.24-01.50.21:516][660]LogAIModule: Creating AISystem for world FootInteractionMap
+[2018.12.24-01.50.21:517][660]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2018.12.24-01.50.21:517][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/FootInteractionMap.FootInteractionMap to /Game/Map/UEDPIE_0_FootInteractionMap.FootInteractionMap (0.015331s)
+[2018.12.24-01.50.21:562][660]LogInit: XAudio2 using '扬声器 (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-01.50.21:572][660]LogInit: FAudioDevice initialized.
+[2018.12.24-01.50.21:582][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.50.21:622][660]LogLoad: Game class is 'GameModeT_C'
+[2018.12.24-01.50.21:627][660]LogWorld: Bringing World /Game/Map/UEDPIE_0_FootInteractionMap.FootInteractionMap up for play (max tick rate 0) at 2018.12.24-09.50.21
+[2018.12.24-01.50.21:627][660]LogWorld: Bringing up level for play took: 0.003793
+[2018.12.24-01.50.21:643][660]PIE: Play in editor start time for /Game/Map/UEDPIE_0_FootInteractionMap 1.151
+[2018.12.24-01.50.24:179][892]LogSlate: Window 'Material Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.24-01.50.24:228][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-01.50.24:275][893]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.24-01.51.31:703][681]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/FootInteractionMap_Auto15FE18716413D2C567BCD909CD37BD8A1.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/Autosaves/Game/Map/FootInteractionMap_Auto1.umap'
+[2018.12.24-01.51.31:711][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/FootInteractionMap' took 0.287
+[2018.12.24-01.51.31:711][681]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.287
+[2018.12.24-01.51.31:717][681]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.12.24-01.51.31:751][681]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.12.24-01.51.31:751][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.12.24-01.51.31:797][681]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ThirdPersonCharacter_Auto1EB79176947F92BE48D41A3B7EAA79025.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.12.24-01.51.31:803][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/ClientSmallGameInstance] ([1] browsable assets)...
+[2018.12.24-01.51.31:803][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/ClientSmallGameInstance]
+[2018.12.24-01.51.31:815][681]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ClientSmallGameInstance_Auto1F9E43FF84627C7842058DD8FBF7C8131.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/Autosaves/Game/Blueprint/ClientSmallGameInstance_Auto1.uasset'
+[2018.12.24-01.51.31:819][681]LogFileHelpers: Auto-saving content packages took 0.105
+[2018.12.24-01.52.01:887][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ClientSmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.52.01:904][ 90]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ClientSmallGameInstanceAE6475B749CDC32207B1329606326AE5.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset'
+[2018.12.24-01.52.02:060][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/ClientSmallGameInstance" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset" SILENT=true
+[2018.12.24-01.52.02:075][106]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ClientSmallGameInstance09E34EA447A2BA22CB2071B62A46EC6B.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/ClientSmallGameInstance.uasset'
+[2018.12.24-01.52.02:629][172]BlueprintLog: New page: Compile ClientSmallGameInstance
+[2018.12.24-01.52.02:782][183]BlueprintLog: New page: Compile ClientSmallGameInstance
+[2018.12.24-01.53.32:543][830]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.53.55:905][618]BlueprintLog: New page: Compile SmallGameMode
+[2018.12.24-01.53.56:393][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SmallGameMode" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameMode.uasset" SILENT=true
+[2018.12.24-01.53.56:411][656]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/SmallGameMode340231B343813AD299F3398283F9EAA3.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Blueprint/SmallGameMode.uasset'
+[2018.12.24-01.54.01:606][231]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.54.20:861][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.12.24-01.54.20:921][525]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/ThirdPersonCharacter112065B94D46EB7CA7D3BBAD2E3D4E5C.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.12.24-01.54.21:351][574]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.24-01.56.18:845][233]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.24-01.56.35:010][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/FootInteractionMap" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Map/FootInteractionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.24-01.56.35:220][120]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/FootInteractionMap969B8AA3461DB85F6D4D9B87F87BD405.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Map/FootInteractionMap.umap'
+[2018.12.24-01.56.35:262][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/FootInteractionMap_BuiltData" FILE="E:/FreeMakeGame/SmallGame/Client/Material/Content/Map/FootInteractionMap_BuiltData.uasset" SILENT=true
+[2018.12.24-01.56.35:278][120]LogSavePackage: Moving 'E:/FreeMakeGame/SmallGame/Client/Material/Saved/FootInteractionMap_BuiltDataF2DA5E394951F7E80C05AFA347E0AE09.tmp' to 'E:/FreeMakeGame/SmallGame/Client/Material/Content/Map/FootInteractionMap_BuiltData.uasset'
+[2018.12.24-01.56.36:156][203]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.24-01.56.36:185][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.24-01.56.36:185][203]PIE: New page: PIE session: FootInteractionMap (Dec 24, 2018, 5:56:36 PM)
+[2018.12.24-01.56.36:186][203]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_FootInteractionMap
+[2018.12.24-01.56.36:197][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011860s)
+[2018.12.24-01.56.36:198][203]LogAIModule: Creating AISystem for world FootInteractionMap
+[2018.12.24-01.56.36:198][203]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2018.12.24-01.56.36:198][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/FootInteractionMap.FootInteractionMap to /Game/Map/UEDPIE_0_FootInteractionMap.FootInteractionMap (0.013693s)
+[2018.12.24-01.56.36:233][203]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_GenericCreateObject', from offset 10
+[2018.12.24-01.56.36:233][203]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprint/ClientSmallGameInstance.ClientSmallGameInstance_C:ReceiveInit
+	Function /Game/Blueprint/ClientSmallGameInstance.ClientSmallGameInstance_C:ExecuteUbergraph_ClientSmallGameInstance
+
+[2018.12.24-01.56.44:658][203]LogBlueprintUserMessages: [ClientSmallGameInstance_C_0] CelientSoketMgr_C_0
+[2018.12.24-01.56.44:669][203]LogInit: XAudio2 using '扬声器 (Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.24-01.56.44:678][203]LogInit: FAudioDevice initialized.
+[2018.12.24-01.56.44:713][203]LogLoad: Game class is 'SmallGameMode_C'
+[2018.12.24-01.56.44:718][203]LogWorld: Bringing World /Game/Map/UEDPIE_0_FootInteractionMap.FootInteractionMap up for play (max tick rate 0) at 2018.12.24-09.56.44
+[2018.12.24-01.56.44:718][203]LogWorld: Bringing up level for play took: 0.004172
+[2018.12.24-01.56.44:734][203]PIE: Play in editor start time for /Game/Map/UEDPIE_0_FootInteractionMap 8.242
+[2018.12.24-01.56.48:792][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.56.51:237][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.56.51:797][ 41]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_DynamicCast', from offset 53
+[2018.12.24-01.56.51:798][ 41]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_T_K2Node_InputKeyEvent_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.12.24-01.56.51:801][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.24-01.56.57:792][ 41]LogClass: please check ip and port
+[2018.12.24-01.58.20:992][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.58.21:068][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.24-01.58.21:102][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.24-01.58.21:121][720]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.24-01.58.22:117][834]Candidate modules for hot reload:
+[2018.12.24-01.58.22:117][834]  Material
+[2018.12.24-01.58.22:117][834]Launching UnrealBuildTool... [D:/EpicGames/UE_4.20/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Material,4577 Win64 Development -TargetType=Editor -Project="E:/FreeMakeGame/SmallGame/Client/Material/Material.uproject" -canskiplink "E:/FreeMakeGame/SmallGame/Client/Material/Material.uproject" ]
+[2018.12.24-01.58.22:132][834]Warning: Starting HotReload took  0.0s.
+[2018.12.24-01.58.27:220][418]CompilerResultsLog: New page: Compilation - Dec 24, 2018, 5:58:27 PM
+[2018.12.24-01.58.27:220][418]CompilerResultsLog: Creating makefile for hot reloading MaterialEditor (ini files are newer than UBTMakefile)
+[2018.12.24-01.58.27:220][418]CompilerResultsLog: Compiling game modules for hot reload
+[2018.12.24-01.58.27:221][418]CompilerResultsLog: Using Visual Studio 2017 14.14.26428 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428) and Windows 10.0.17134.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2018.12.24-01.58.27:221][418]CompilerResultsLog: Target is up to date
+[2018.12.24-01.58.27:221][418]CompilerResultsLog: Total build time: 4.77 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.12.24-01.58.27:221][418]LogMainFrame: MainFrame: Module compiling took 5.111 seconds
+[2018.12.24-01.58.27:525][418]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2576 classes and 609 folders.
+[2018.12.24-01.58.27:573][418]Display: HotReload took  5.5s.

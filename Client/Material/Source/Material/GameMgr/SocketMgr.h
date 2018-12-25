@@ -11,7 +11,7 @@
 /**
  * 
  */
-UCLASS()
+UCLASS(Blueprintable)
 class MATERIAL_API USocketMgr : public UObject
 {
 	GENERATED_UCLASS_BODY()

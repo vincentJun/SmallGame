@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeMaterial_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Material",
 				PKG_CompiledIn | 0x00000000,
-				0x1D85E1F4,
-				0xCB980A5D,
+				0x889FF067,
+				0x22A1942C,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};

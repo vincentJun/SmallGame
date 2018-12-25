@@ -726,8 +726,10 @@
     <None Include="..\..\Config\DefaultInput.ini" />
     <None Include="..\..\Source\Material\Material.Build.cs" />
     <ClCompile Include="..\..\Source\Material\GameMgr\SocketMgr.cpp" />
+    <ClCompile Include="..\..\Source\Material\GamePlay\SmallGameInstance.cpp" />
     <ClCompile Include="..\..\Source\Material\Material.cpp" />
     <ClInclude Include="..\..\Source\Material\GameMgr\SocketMgr.h" />
+    <ClInclude Include="..\..\Source\Material\GamePlay\SmallGameInstance.h" />
     <ClInclude Include="..\..\Source\Material\Material.h" />
     <ClCompile Include="..\..\Source\Material\GamePlay\SmallGamePlayerController.cpp" />
     <ClInclude Include="..\..\Source\Material\GamePlay\SmallGamePlayerController.h" />

@@ -744,10 +744,16 @@
     <ClInclude Include="..\..\Source\Material\GameMgr\SocketMgr.h">
       <Filter>Source\Material\GameMgr</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\Material\GamePlay\SmallGameInstance.h">
+      <Filter>Source\Material\GamePlay</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\Material\GameMgr\SocketMgr.cpp">
       <Filter>Source\Material\GameMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Material\GamePlay\SmallGameInstance.cpp">
+      <Filter>Source\Material\GamePlay</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

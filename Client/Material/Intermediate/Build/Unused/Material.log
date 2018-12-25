@@ -1,8 +1,3 @@
-﻿  Building 3 actions with 8 processes...
-    [1/3] SocketMgr.cpp
-    [2/3] UE4Editor-Material.lib
-      ????????? E:\FreeMakeGame\SmallGame\Client\Material\Intermediate\Build\Win64\UE4Editor\Development\Material\UE4Editor-Material.lib ????? E:\FreeMakeGame\SmallGame\Client\Material\Intermediate\Build\Win64\UE4Editor\Development\Material\UE4Editor-Material.exp
-    [3/3] UE4Editor-Material.dll
-      ????????? E:\FreeMakeGame\SmallGame\Client\Material\Intermediate\Build\Win64\UE4Editor\Development\Material\UE4Editor-Material.suppressed.lib ????? E:\FreeMakeGame\SmallGame\Client\Material\Intermediate\Build\Win64\UE4Editor\Development\Material\UE4Editor-Material.suppressed.exp
+﻿  Target is up to date
   Deploying MaterialEditor Win64 Development...
-  Total build time: 2.17 seconds (Parallel executor: 1.54 seconds)
+  Total build time: 0.71 seconds (NoActionsToExecute executor: 0.00 seconds)

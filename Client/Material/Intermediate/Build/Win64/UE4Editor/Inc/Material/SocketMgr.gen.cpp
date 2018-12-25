@@ -186,7 +186,9 @@ void EmptyLinkFunctionForGeneratedCodeSocketMgr() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_USocketMgr_Statics::Class_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
 		{ "IncludePath", "GameMgr/SocketMgr.h" },
+		{ "IsBlueprintBase", "true" },
 		{ "ModuleRelativePath", "GameMgr/SocketMgr.h" },
 	};
 #endif
@@ -213,7 +215,7 @@ void EmptyLinkFunctionForGeneratedCodeSocketMgr() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(USocketMgr, 1554410613);
+	IMPLEMENT_CLASS(USocketMgr, 2896409101);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_USocketMgr(Z_Construct_UClass_USocketMgr, &USocketMgr::StaticClass, TEXT("/Script/Material"), TEXT("USocketMgr"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(USocketMgr);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
